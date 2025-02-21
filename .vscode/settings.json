@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "sonarlint.connectedMode.project": {
+        "connectionId": "localhost-9000",
+        "projectKey": "com.example:sonarqube-maven-project"
+    }
+}
